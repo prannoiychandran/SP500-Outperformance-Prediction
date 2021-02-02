@@ -1,5 +1,8 @@
 # Stock Market Prediction
 
+Financial data on stocks from 15+ GICS sectors was collated. Historical data on stocks traded on the S&P500 was used to define the target variable "Outperformance". During the 2016-2019 period, the S&P500 saw price appreciation of of 43.88%. The outperformance benchmark was set at 3% above the index; therefore, a stock  showing a price appreciation of 46.88% or better would meet the outperformance criteria.
+
+Data cleaning was performed before 3 models were trained on the dataset on SPSS: decision tree, neural net and Bayesian network. Ensemble methods, bootstrapping and splits (particularly on sector) were all used to produce multiple iterations of each model to determine the most appropriate model for this analysis. The final models were selected based on overall accuracy and relative accuracy among split groups. 
 
 
 
