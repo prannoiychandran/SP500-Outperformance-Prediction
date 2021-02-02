@@ -1,6 +1,6 @@
 # Stock Market Prediction
 
-![image](https://user-images.githubusercontent.com/78432605/106653077-57da6e80-6564-11eb-9159-a6a3ad556000.png)
+![image](https://user-images.githubusercontent.com/78432605/106653930-6ffebd80-6565-11eb-8994-b8e874e14176.png)
 ![image](https://user-images.githubusercontent.com/78432605/106653116-60cb4000-6564-11eb-831d-aa4ac8dd189f.png)
 
 ![image](https://user-images.githubusercontent.com/78432605/106653609-09799f80-6565-11eb-88d8-c04bcad8944c.png)
