@@ -11,7 +11,7 @@ Data cleaning was performed before 3 models were trained on the dataset on SPSS:
 ![image](https://user-images.githubusercontent.com/78432605/106653116-60cb4000-6564-11eb-831d-aa4ac8dd189f.png)
 
 
-**Decision Tree**
+**Decision Tree (C5.0)**
 
 ![image](https://user-images.githubusercontent.com/78432605/106653609-09799f80-6565-11eb-88d8-c04bcad8944c.png)
 ![image](https://user-images.githubusercontent.com/78432605/106653765-3fb71f00-6565-11eb-8873-c8a600ef5c1f.png)
