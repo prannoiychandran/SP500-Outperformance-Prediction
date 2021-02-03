@@ -7,7 +7,7 @@ Data cleaning was performed before 3 models were trained on the dataset on SPSS:
 
 
 
-![image](https://user-images.githubusercontent.com/78432605/106653930-6ffebd80-6565-11eb-8994-b8e874e14176.png)
+![image](https://user-images.githubusercontent.com/78432605/106697947-ce4f8e80-65ad-11eb-9440-6527811303c6.png)
 ![image](https://user-images.githubusercontent.com/78432605/106653116-60cb4000-6564-11eb-831d-aa4ac8dd189f.png)
 
 
