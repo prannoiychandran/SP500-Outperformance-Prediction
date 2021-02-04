@@ -1,4 +1,4 @@
-# Stock Market Prediction
+# Stock Market Prediction (Outperforming S&P500 Index by 3%)
 
 The primary dataset consisted of ~10,000 rows of financial data on stocks from 15+ GICS sectors. Historical data on stocks traded on the S&P500 index was used to define the target variable "Outperformance". During the 2016-2019 period, the S&P500 saw price appreciation of of 43.88%. The outperformance benchmark was set at 3% above the index; therefore, a stock  showing a price appreciation of 46.88% or more over 3 years would meet the outperformance criteria.
 
